@@ -199,3 +199,5 @@ tran_auto_test.ko
 tnek.ko
 thd.ko
 sdcard_debug.ko
+gt9886.ko
+gt9896s.ko
